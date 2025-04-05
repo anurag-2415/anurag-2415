@@ -15,8 +15,7 @@
 ### 👨‍💻 About Me
 
 - 💡 I'm a **MERN Stack Developer** passionate about building scalable and intuitive web applications  
-- 🎓 Graduate in **BCA from Christ University, Bangalore**  
-- 💼 Internship experience at **Infogain India** and **Organo Technologies**  
+- 🎓 Graduate in **BCA from Christ University, Delhi NCR**  
 - 🌱 Constantly exploring new tech in web development and open to full-time roles  
 
 ---
