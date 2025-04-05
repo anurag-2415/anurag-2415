@@ -2,9 +2,6 @@
 <h3 align="center">🚀 MERN Stack Developer | Web Dev Enthusiast | Open to Work</h3>
 
 <p align="center">
-  <a href="https://github.com/anurag-2415">
-    <img src="https://komarev.com/ghpvc/?username=anurag-2415&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
   <a href="https://www.linkedin.com/in/anurag-trivedi-172410213/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" alt="LinkedIn">
   </a>
